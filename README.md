@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 - 😄 curiosidades: curto muito assistir a stream do gaules nas minhas horas vagas hahaha gosto de assistir algumas series e a minha preferida é breaking bad. 
 
-- 📫 Como chegar até mim: EMAIL:lucas.9cabral@gmail.com LINKEDIN:https://www.linkedin.com/in/lucas-santos-cabral/
+- 📫 Como chegar até mim: 
+EMAIL:lucas.9cabral@gmail.com.
+LINKEDIN:https://www.linkedin.com/in/lucas-santos-cabral/
