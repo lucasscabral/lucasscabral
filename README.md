@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 Email:lucas.9cabral@gmail.com</br>
 Linkedin:https://www.linkedin.com/in/lucas-santos-cabral/
 
-![Snake animation](https://github.com/rafaballerini/lucasscabral/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rafaballerini/lucasscabral/blob/output/github-contribution-grid-snake.svg) -->
