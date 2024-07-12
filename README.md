@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Atualmente estou estudando na Univerdidade Federal do Pará, cursando Sistemas de Informação. Com uma especialização no curso da Driven em desenvolvimento Full Stack e buscando ainda mais conhecimentos em programação.
+- 🔭 Atualmente estou estudando na Universidade Federal do Pará, cursando Sistemas de Informação. Com uma especialização no curso da Driven em desenvolvimento Full Stack e buscando ainda mais conhecimentos em programação.
 <div align="center">
   <a href="https://github.com/lucasscabral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasscabral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
